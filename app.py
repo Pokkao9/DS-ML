@@ -8,6 +8,8 @@ st.info("7 Day Intensive Hands-on Workshop")
 st.write("Pokao")
 st.write("##### Day 1: การจัดการข้อมูลพื้นฐานและโครงสร้างข้อมูลด้วย Python")
 
+st.markdown(''':rainbow[Pokkao999j] ''')
+
 if st.button("💰 ระบบคำนวณส่วนลดตามยอดซื้อ"):
     st.switch_page("pages/app1_discount_calc.py")
 elif st.button("การทำความสะอาดข้อมูล By B"):
