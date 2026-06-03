@@ -12,9 +12,9 @@ if st.button("💰 ระบบคำนวณส่วนลดตามยอ�
     st.switch_page("pages/app1_discount_calc.py")
 elif st.button("การทำความสะอาดข้อมูล By B"):
     st.switch_page("pages/clean_By_B2_app.py")
-elif st.button("การทำความสะอาดข้อมูล"):
+elif st.button("🧹 การทำความสะอาดข้อมูล"):
     st.switch_page("pages/clean_app.py")
 elif st.button("การแปลงข้อมูล"):
     st.switch_page("pages/transform_app.py")
-elif st.button("🦆กราฟฟฟฟ"):
+elif st.button("🦆 กราฟฟฟฟ"):
     st.switch_page("pages/EDA_app.py")
