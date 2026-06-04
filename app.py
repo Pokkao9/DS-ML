@@ -22,3 +22,6 @@ elif st.button("💰 พยากรณ์ยอดขาย"):
     st.switch_page("pages/sale_predict.py")
 elif st.button("🚛 การขนส่ง"):
     st.switch_page("pages/truck_predict.py")
+elif st.button("🐂 ทำนายโอกาสขาย"):
+    st.switch_page("pages/classify_redbull_sale.py")
+    
