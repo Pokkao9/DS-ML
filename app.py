@@ -128,10 +128,7 @@ st.markdown("""
 # =========================
 # Menu
 # =========================
-st.markdown(
-    '<div class="section-title">📊 Data Processing</div>',
-    unsafe_allow_html=True
-)
+
 
 col1, col2 = st.columns(2)
 
@@ -161,10 +158,7 @@ with col2:
     if st.button("🐂 ทำนายโอกาสขาย"):
         st.switch_page("pages/classify_redbull_sale.py")
 
-st.markdown(
-    '<div class="section-title">🤖 Machine Learning</div>',
-    unsafe_allow_html=True
-)
+
 
 col3, col4 = st.columns(2)
 
