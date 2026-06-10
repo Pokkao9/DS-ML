@@ -24,4 +24,6 @@ elif st.button("🚛 การขนส่ง"):
     st.switch_page("pages/truck_predict.py")
 elif st.button("🐂 ทำนายโอกาสขาย"):
     st.switch_page("pages/classify_redbull_sale.py")
+elif st.button("⭕ การทำกลุ่ม Kmeans"):
+    st.switch_page("pages/clustering_segment.py")
     
