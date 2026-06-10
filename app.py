@@ -28,3 +28,5 @@ elif st.button("⭕ การทำกลุ่ม Kmeans"):
     st.switch_page("pages/clustering_segment.py")
 elif st.button("🛒 การทำแนะนำสินค้า"):
     st.switch_page("pages/association_items.py")
+elif st.button("🏷️ สินค้าที่แนะนำ"):
+    st.switch_page("pages/association_recommend.py")
