@@ -109,11 +109,6 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-st.markdown(
-    '<div class="subtitle">AI • Data Science • Machine Learning Platform</div>',
-    unsafe_allow_html=True
-)
-
 st.markdown("""
 <div class="card">
 <h3>🚀 Boot Camp: Data Science and Machine Learning</h3>
